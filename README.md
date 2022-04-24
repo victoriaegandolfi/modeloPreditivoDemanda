@@ -1,4 +1,5 @@
-# modeloPreditivoDemanda
+# Modelo preditivo de demanda de categorias de produtos
+
 Projeto final do curso de DS da Awari, em que se contrói um modelo preditivo para demanda de categorias de produtos.
 
 Apresentação do projeto
